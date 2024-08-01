@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 01 15:51:48 WIB 2024","Thu Aug 01 15:51:53 WIB 2024","5528","","Login","","","","should be able to login with valid username and password",""
+"passed","Thu Aug 01 15:51:42 WIB 2024","Thu Aug 01 15:51:48 WIB 2024","5170","","Login","","","","should not be able to login with invalid username and password",""
